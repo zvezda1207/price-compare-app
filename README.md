@@ -58,6 +58,7 @@ main.py — точка входа
 ```bash
 pip install -r requirements.txt
 pyinstaller --onefile --windowed gui.py
+```
 
 Исполняемый файл создаётся в папке dist/.
 
